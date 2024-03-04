@@ -1,0 +1,4625 @@
+{
+  "nodes": [
+    {
+      "id": "today",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "water",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "program",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "even",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "job",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "green",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "USA",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "right",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "see",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "goat",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "piece",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "light bulb",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "lady",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "breathe",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "body",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "employment",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "crowd",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "blood",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "moniker",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "long",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "work",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "government",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "sight",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "law",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "word",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "shoulders",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "baby",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "craft",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "quantity",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "fact",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "item",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "man",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "digit",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "science",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "many",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "corpus",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "earth",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "eye",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "truck",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "best",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "business",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "generous",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "logic",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "forth",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "dawn",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "left",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "help",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "individual",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "organization",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "information",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "correct",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "association",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "time",
+      "group": 0,
+      "is_in_path": true
+    },
+    {
+      "id": "off",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "wellbeing",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "afternoon",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "sleep",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "owl",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "research",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "think",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "lawyer",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "knob",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "magazine",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "group",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "globe",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "line",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "concept",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "kid",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "age",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "education",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "breath",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "here",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "location",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "neighborhood",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "solve",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "ball",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "product",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "lot",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "fun",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "final",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "stop",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hall",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "number",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "customer",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "educator",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "war",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hard",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hearty",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "shoot",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "days",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "humans",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "why",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "next",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "town",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "front",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "calendar",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "high",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "university",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hour",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "task",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "child",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "push",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "door",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "one",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "friends",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "country",
+      "group": 0,
+      "is_in_path": true
+    },
+    {
+      "id": "day",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "painting",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "parts",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "thought",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "outcome",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "point",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "month",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "data",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "knowledge",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "paper",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "Obama",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "tale",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "back",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "land",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "area",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "life",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "lesson",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "true",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "mind",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "coins",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "people",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "air",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "file",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "evening",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "different",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "finger",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "service",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "truth",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "foe",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "story",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "dark",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "a",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "electricity",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "place",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "issue",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "paint",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "noon",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "school",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "player",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "love",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "the",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "them",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "draw",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "fight",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "opening",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "part",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "battle",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "top",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "book",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "out",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "annual",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "suitcase",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "art",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "ask",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "letter",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "wealth",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "strong",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "year",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "doctor",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "ways",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "mentor",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "party",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "visage",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "object",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "count",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "field",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "guy",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "difficulty",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "type",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "computer",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "world",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "enemy",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "foot",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "legal",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "heart",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "books",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "news",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "idea",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "belong",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "history",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hand",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "pal",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "leader",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "pupil",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "beauty",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "game",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "mark",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "sport",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "read",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "automobile",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "moment",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "mom",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "end",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "spine",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "learn",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "might",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "female",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "team",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "others",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "week",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "solution",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "past",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "flat",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "currency",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "boy",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "male",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "clock",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "straight",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "parking",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "way",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "vehicle",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "query",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "eyes",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "mother",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "sweet",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "ROOT",
+      "group": 0,
+      "is_in_path": true
+    },
+    {
+      "id": "persons",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "London",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "teacher",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "reason",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "side",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "much",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "animal",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "home",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "answer",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "fingers",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "rule",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "open",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "head",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "ache",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "peace",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "small",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "finish",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "military",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "mum",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "corporation",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "professor",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "forward",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "entry",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "excuse",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "watch",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "picture",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "penis",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "money",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "big",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "teller",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "auto",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "telling",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "box",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "problem",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "power",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "car",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "force",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "family",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "glass",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "beginning",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "brief",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "death",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "girl",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "tag",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "nice",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "liquid",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "dollars",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "thing",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "enterprise",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "code",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "case",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "put",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "New York",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "route",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "soul",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "me",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "Star Wars",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "drink",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "person",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "smart",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "play",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "parent",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "result",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "internet",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "night",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "learner",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "buddy",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "atmosphere",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "system",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "woman",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "member",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "office",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "human",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "flies",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "pencil",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "face",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "wrong",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hair",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "company",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "sentence",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "violence",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "kind",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "strength",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "path",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "alter",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "desk",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "sharp",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "state",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "lake",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "fiction",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "president",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "say",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hungry",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "seven",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "test",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "name",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "morning",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "dad",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "city",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "seven days",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "police",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "January",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "glasses",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "section",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "tiny",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "wet",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "space",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "title",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "gal",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "friend",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "order",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "window",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "cash",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "second",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "nation",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "topic",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "whole",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "change",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "now",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "level",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "room",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "study",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "good",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "urban",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "wellness",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "happiness",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "drive",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "health",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "minute",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "politics",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "question",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "father",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "student",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "square",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "labor",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "brain",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "nose",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "community",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "view",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "club",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "light",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "oxygen",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "bed",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "house",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "road",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "gentle",
+      "group": 0,
+      "is_in_path": false
+    }
+  ],
+  "links": [
+    {
+      "source": "water",
+      "target": "drink",
+      "reversed_association_rate": 11.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "water",
+      "target": "wet",
+      "reversed_association_rate": 11.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "water",
+      "target": "lake",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "water",
+      "target": "liquid",
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "program",
+      "target": "code",
+      "reversed_association_rate": 16.167,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "program",
+      "target": "computer",
+      "reversed_association_rate": 2.939,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "job",
+      "target": "employment",
+      "reversed_association_rate": 10.889,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "job",
+      "target": "task",
+      "reversed_association_rate": 19.6,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "right",
+      "target": "left",
+      "reversed_association_rate": 4.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "right",
+      "target": "wrong",
+      "reversed_association_rate": 2.857,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "right",
+      "target": "correct",
+      "reversed_association_rate": 5.882,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "body",
+      "target": "parts",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "body",
+      "target": "mind",
+      "reversed_association_rate": 10.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "body",
+      "target": "soul",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "body",
+      "target": "corpus",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "work",
+      "target": "play",
+      "reversed_association_rate": 4.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "work",
+      "target": "hard",
+      "reversed_association_rate": 12.375,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "work",
+      "target": "labor",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "government",
+      "target": "big",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "government",
+      "target": "politics",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "law",
+      "target": "police",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "law",
+      "target": "lawyer",
+      "reversed_association_rate": 11.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "law",
+      "target": "order",
+      "reversed_association_rate": 7.615,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "law",
+      "target": "legal",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "law",
+      "target": "rule",
+      "reversed_association_rate": 7.615,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "word",
+      "target": "sentence",
+      "reversed_association_rate": 13.857,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "word",
+      "target": "association",
+      "reversed_association_rate": 10.778,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "fact",
+      "target": "fiction",
+      "reversed_association_rate": 3.92,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "fact",
+      "target": "truth",
+      "reversed_association_rate": 6.533,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "fact",
+      "target": "true",
+      "reversed_association_rate": 10.889,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "man",
+      "target": "male",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "man",
+      "target": "human",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "eye",
+      "target": "ball",
+      "reversed_association_rate": 5.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "eye",
+      "target": "see",
+      "reversed_association_rate": 6.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "eye",
+      "target": "glasses",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "eye",
+      "target": "sight",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "business",
+      "target": "enterprise",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "information",
+      "target": "data",
+      "reversed_association_rate": 5.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "information",
+      "target": "news",
+      "reversed_association_rate": 14.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "information",
+      "target": "knowledge",
+      "reversed_association_rate": 7.615,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "information",
+      "target": "internet",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "time",
+      "target": "flies",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "time",
+      "target": "clock",
+      "reversed_association_rate": 4.714,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "time",
+      "target": "watch",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "research",
+      "target": "science",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "research",
+      "target": "paper",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "group",
+      "target": "friends",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "group",
+      "target": "association",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "line",
+      "target": "straight",
+      "reversed_association_rate": 4.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "line",
+      "target": "draw",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "kid",
+      "target": "goat",
+      "reversed_association_rate": 6.187,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "education",
+      "target": "university",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "education",
+      "target": "knowledge",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "education",
+      "target": "smart",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "lot",
+      "target": "many",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "lot",
+      "target": "much",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "lot",
+      "target": "a",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "lot",
+      "target": "parking",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "number",
+      "target": "letter",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "number",
+      "target": "one",
+      "reversed_association_rate": 4.95,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "number",
+      "target": "digit",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "number",
+      "target": "count",
+      "reversed_association_rate": 11.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "number",
+      "target": "quantity",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "war",
+      "target": "violence",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "war",
+      "target": "death",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "war",
+      "target": "peace",
+      "reversed_association_rate": 5.263,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "war",
+      "target": "battle",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "war",
+      "target": "blood",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "war",
+      "target": "fight",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "hour",
+      "target": "long",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "hour",
+      "target": "glass",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "child",
+      "target": "baby",
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "door",
+      "target": "open",
+      "reversed_association_rate": 5.263,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "door",
+      "target": "knob",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "door",
+      "target": "entry",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "door",
+      "target": "window",
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "door",
+      "target": "opening",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "country",
+      "target": "land",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "country",
+      "target": "USA",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "country",
+      "target": "nation",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "day",
+      "target": "light",
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "day",
+      "target": "today",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "point",
+      "target": "sharp",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "point",
+      "target": "finger",
+      "reversed_association_rate": 6.25,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "point",
+      "target": "pencil",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "point",
+      "target": "shoot",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "month",
+      "target": "January",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "month",
+      "target": "calendar",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "back",
+      "target": "front",
+      "reversed_association_rate": 3.414,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "back",
+      "target": "forth",
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "back",
+      "target": "forward",
+      "reversed_association_rate": 12.375,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "back",
+      "target": "spine",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "area",
+      "target": "space",
+      "reversed_association_rate": 5.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "area",
+      "target": "square",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "life",
+      "target": "death",
+      "reversed_association_rate": 4.042,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "people",
+      "target": "humans",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "people",
+      "target": "friends",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "people",
+      "target": "persons",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "people",
+      "target": "crowd",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "air",
+      "target": "breathe",
+      "reversed_association_rate": 3.448,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "air",
+      "target": "breath",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "air",
+      "target": "oxygen",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "air",
+      "target": "atmosphere",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "service",
+      "target": "military",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "service",
+      "target": "help",
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "service",
+      "target": "customer",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "story",
+      "target": "tale",
+      "reversed_association_rate": 3.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "story",
+      "target": "teller",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "story",
+      "target": "telling",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "place",
+      "target": "put",
+      "reversed_association_rate": 16.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "place",
+      "target": "location",
+      "reversed_association_rate": 8.167,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "place",
+      "target": "here",
+      "reversed_association_rate": 19.6,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "issue",
+      "target": "magazine",
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "issue",
+      "target": "topic",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "school",
+      "target": "learn",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "school",
+      "target": "days",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "part",
+      "target": "piece",
+      "reversed_association_rate": 8.25,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "part",
+      "target": "whole",
+      "reversed_association_rate": 12.375,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "part",
+      "target": "hair",
+      "reversed_association_rate": 9.9,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "part",
+      "target": "section",
+      "reversed_association_rate": 11.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "book",
+      "target": "read",
+      "reversed_association_rate": 2.381,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "book",
+      "target": "mark",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "art",
+      "target": "paint",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "art",
+      "target": "beauty",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "art",
+      "target": "painting",
+      "reversed_association_rate": 6.25,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "art",
+      "target": "picture",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "art",
+      "target": "craft",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "year",
+      "target": "age",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "year",
+      "target": "annual",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "party",
+      "target": "animal",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "party",
+      "target": "fun",
+      "reversed_association_rate": 5.882,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "party",
+      "target": "hearty",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "guy",
+      "target": "gal",
+      "reversed_association_rate": 6.25,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "guy",
+      "target": "male",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "world",
+      "target": "globe",
+      "reversed_association_rate": 4.762,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "world",
+      "target": "earth",
+      "reversed_association_rate": 4.762,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "world",
+      "target": "view",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "idea",
+      "target": "thought",
+      "reversed_association_rate": 2.538,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "idea",
+      "target": "concept",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "idea",
+      "target": "think",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "idea",
+      "target": "light bulb",
+      "reversed_association_rate": 14.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "history",
+      "target": "past",
+      "reversed_association_rate": 4.545,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "history",
+      "target": "lesson",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "hand",
+      "target": "finger",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "hand",
+      "target": "left",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "hand",
+      "target": "foot",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "hand",
+      "target": "fingers",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "game",
+      "target": "play",
+      "reversed_association_rate": 3.226,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "game",
+      "target": "fun",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "moment",
+      "target": "second",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "moment",
+      "target": "now",
+      "reversed_association_rate": 10.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "end",
+      "target": "the",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "end",
+      "target": "finish",
+      "reversed_association_rate": 4.348,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "end",
+      "target": "final",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "end",
+      "target": "beginning",
+      "reversed_association_rate": 7.692,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "end",
+      "target": "stop",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "team",
+      "target": "sport",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "team",
+      "target": "player",
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "others",
+      "target": "them",
+      "reversed_association_rate": 6.6,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "others",
+      "target": "friends",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "week",
+      "target": "seven days",
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "week",
+      "target": "seven",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "way",
+      "target": "path",
+      "reversed_association_rate": 5.263,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "way",
+      "target": "road",
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "way",
+      "target": "out",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "way",
+      "target": "route",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "mother",
+      "target": "mom",
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "mother",
+      "target": "love",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "time",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": true,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "year",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "people",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "way",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "day",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "man",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "thing",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "woman",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "life",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "child",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "world",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "school",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "state",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "family",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "student",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "group",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "country",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": true,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "problem",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "hand",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "part",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "place",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "case",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "week",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "company",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "system",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "program",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "question",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "work",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "government",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "number",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "night",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "point",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "home",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "water",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "room",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "mother",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "area",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "money",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "story",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "fact",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "month",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "lot",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "right",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "study",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "book",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "eye",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "job",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "word",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "business",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "issue",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "side",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "kind",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "head",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "house",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "service",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "friend",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "father",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "power",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "hour",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "game",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "line",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "end",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "member",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "law",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "car",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "city",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "community",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "name",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "president",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "team",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "minute",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "idea",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "kid",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "body",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "information",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "back",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "parent",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "face",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "others",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "level",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "office",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "door",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "health",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "person",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "art",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "war",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "history",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "party",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "result",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "change",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "morning",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "reason",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "research",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "girl",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "guy",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "moment",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "air",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "teacher",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "force",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "ROOT",
+      "target": "education",
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "teacher",
+      "target": "mentor",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "teacher",
+      "target": "educator",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "teacher",
+      "target": "professor",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "reason",
+      "target": "why",
+      "reversed_association_rate": 6.25,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "reason",
+      "target": "think",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "reason",
+      "target": "logic",
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "reason",
+      "target": "excuse",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "side",
+      "target": "next",
+      "reversed_association_rate": 19.4,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "side",
+      "target": "ways",
+      "reversed_association_rate": 13.857,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "home",
+      "target": "heart",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "home",
+      "target": "sweet",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "head",
+      "target": "ache",
+      "reversed_association_rate": 19.6,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "head",
+      "target": "shoulders",
+      "reversed_association_rate": 16.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "head",
+      "target": "top",
+      "reversed_association_rate": 10.889,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "head",
+      "target": "hair",
+      "reversed_association_rate": 14.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "head",
+      "target": "brain",
+      "reversed_association_rate": 19.6,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "money",
+      "target": "green",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "money",
+      "target": "cash",
+      "reversed_association_rate": 3.846,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "money",
+      "target": "dollars",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "money",
+      "target": "currency",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "problem",
+      "target": "solution",
+      "reversed_association_rate": 5.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "problem",
+      "target": "solve",
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "problem",
+      "target": "difficulty",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "power",
+      "target": "strength",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "power",
+      "target": "strong",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "power",
+      "target": "hungry",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "power",
+      "target": "electricity",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "power",
+      "target": "might",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "car",
+      "target": "truck",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "car",
+      "target": "drive",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "car",
+      "target": "auto",
+      "reversed_association_rate": 6.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "car",
+      "target": "automobile",
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "car",
+      "target": "vehicle",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "force",
+      "target": "field",
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "force",
+      "target": "push",
+      "reversed_association_rate": 9.9,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "force",
+      "target": "Star Wars",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "family",
+      "target": "friends",
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "family",
+      "target": "love",
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "girl",
+      "target": "female",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "girl",
+      "target": "boy",
+      "reversed_association_rate": 2.128,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "thing",
+      "target": "object",
+      "reversed_association_rate": 4.9,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "thing",
+      "target": "item",
+      "reversed_association_rate": 7.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "case",
+      "target": "brief",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "case",
+      "target": "suitcase",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "case",
+      "target": "file",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "case",
+      "target": "box",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "person",
+      "target": "human",
+      "reversed_association_rate": 4.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "person",
+      "target": "individual",
+      "reversed_association_rate": 14.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "parent",
+      "target": "mum",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "parent",
+      "target": "mom",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "result",
+      "target": "test",
+      "reversed_association_rate": 8.25,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "result",
+      "target": "product",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "result",
+      "target": "answer",
+      "reversed_association_rate": 9.9,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "result",
+      "target": "outcome",
+      "reversed_association_rate": 11.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "night",
+      "target": "evening",
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "night",
+      "target": "dark",
+      "reversed_association_rate": 5.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "night",
+      "target": "owl",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "night",
+      "target": "sleep",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "system",
+      "target": "organization",
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "system",
+      "target": "computer",
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "woman",
+      "target": "female",
+      "reversed_association_rate": 4.545,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "woman",
+      "target": "lady",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "member",
+      "target": "penis",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "member",
+      "target": "belong",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "member",
+      "target": "club",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "office",
+      "target": "space",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "office",
+      "target": "desk",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "face",
+      "target": "off",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "face",
+      "target": "visage",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "face",
+      "target": "eyes",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "face",
+      "target": "nose",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "company",
+      "target": "friends",
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "company",
+      "target": "corporation",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "kind",
+      "target": "nice",
+      "reversed_association_rate": 4.762,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "kind",
+      "target": "generous",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "kind",
+      "target": "type",
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "kind",
+      "target": "gentle",
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "state",
+      "target": "nation",
+      "reversed_association_rate": 14.143,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "state",
+      "target": "say",
+      "reversed_association_rate": 12.375,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "president",
+      "target": "Obama",
+      "reversed_association_rate": 3.448,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "president",
+      "target": "leader",
+      "reversed_association_rate": 5.882,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "name",
+      "target": "tag",
+      "reversed_association_rate": 19.6,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "name",
+      "target": "title",
+      "reversed_association_rate": 7.538,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "name",
+      "target": "me",
+      "reversed_association_rate": 12.25,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "name",
+      "target": "moniker",
+      "reversed_association_rate": 16.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "morning",
+      "target": "good",
+      "reversed_association_rate": 12.375,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "morning",
+      "target": "afternoon",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "morning",
+      "target": "noon",
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "morning",
+      "target": "dawn",
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "city",
+      "target": "town",
+      "reversed_association_rate": 3.226,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "city",
+      "target": "New York",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "city",
+      "target": "urban",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "city",
+      "target": "London",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "friend",
+      "target": "best",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "friend",
+      "target": "pal",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "friend",
+      "target": "foe",
+      "reversed_association_rate": 10.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "friend",
+      "target": "buddy",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "friend",
+      "target": "enemy",
+      "reversed_association_rate": 7.692,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "change",
+      "target": "coins",
+      "reversed_association_rate": 7.692,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "change",
+      "target": "alter",
+      "reversed_association_rate": 7.692,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "change",
+      "target": "different",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "level",
+      "target": "even",
+      "reversed_association_rate": 5.556,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "level",
+      "target": "flat",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "level",
+      "target": "high",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "room",
+      "target": "space",
+      "reversed_association_rate": 4.95,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "room",
+      "target": "bed",
+      "reversed_association_rate": 9.9,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "study",
+      "target": "books",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "study",
+      "target": "hard",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "study",
+      "target": "learn",
+      "reversed_association_rate": 6.25,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "study",
+      "target": "hall",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "health",
+      "target": "wealth",
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "health",
+      "target": "good",
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "health",
+      "target": "wellbeing",
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "health",
+      "target": "happiness",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "health",
+      "target": "wellness",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "health",
+      "target": "doctor",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "minute",
+      "target": "second",
+      "reversed_association_rate": 5.263,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "minute",
+      "target": "small",
+      "reversed_association_rate": 10.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "minute",
+      "target": "tiny",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "question",
+      "target": "answer",
+      "reversed_association_rate": 2.357,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "question",
+      "target": "mark",
+      "reversed_association_rate": 7.071,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "question",
+      "target": "query",
+      "reversed_association_rate": 12.375,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "question",
+      "target": "ask",
+      "reversed_association_rate": 7.615,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "father",
+      "target": "dad",
+      "reversed_association_rate": 3.846,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "student",
+      "target": "learner",
+      "reversed_association_rate": 6.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "student",
+      "target": "learn",
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "student",
+      "target": "pupil",
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "community",
+      "target": "town",
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false,
+      "value": 0.5
+    },
+    {
+      "source": "community",
+      "target": "neighborhood",
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false,
+      "value": 0.5
+    }
+  ]
+}

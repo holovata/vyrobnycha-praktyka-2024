@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <!--<link rel="stylesheet" href="https://getbootstrap.com/docs/5.3/examples/list-groups/list-groups.css">-->
+    <!--<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.18.1/font/bootstrap-icons.css">-->
+
+    <title>Words Distance Calculator</title>
+</head>
+<body style="background-color: #212529; color: #dee2e6;">
+<h1 style="text-align: center; padding-top: 30px; padding-bottom: 30px;">Words Distance Calculator</h1>
+
+<div class="container text-center">
+    <!-- Word 1 Section -->
+    <div class="d-flex flex-column flex-md-row p-4 gap-4 py-md-5 align-items-center justify-content-center">
+        <span id="selectedWordLabel1" style="text-align: center;"><strong>Selected Word 1: </strong></span>
+        <span id="selectedWord1"></span>
+    </div>
+
+    <!-- Word 1 Form -->
+    <div class="d-flex flex-column align-items-center justify-content-center">
+        <form action="/word1" method="post" id="searchForm1" class="text-center">
+            <div class="mb-3">
+                <label for="word1" class="col-form-label">Enter Word 1:</label>
+            </div>
+            <input type="text" id="word1" class="form-control" name="word1" value="{{ word1|default('') }}" required>
+            <br>
+            <input type="submit" class="btn btn-primary d-inline-flex align-items-center" value="Submit Word 1">
+        </form>
+    </div>
+</div>
+
+<div class="container text-center">
+    <!-- Word 2 Section -->
+    <div class="d-flex flex-column flex-md-row p-4 gap-4 py-md-5 align-items-center justify-content-center">
+        <span id="selectedWordLabel2" style="text-align: center;"><strong>Selected Word 2: </strong></span>
+        <span id="selectedWord2"></span>
+    </div>
+
+    <!-- Word 2 Form -->
+    <div class="d-flex flex-column align-items-center justify-content-center">
+        <form action="/word2" method="post" id="searchForm2" class="text-center">
+            <div class="mb-3">
+                <label for="word2" class="col-form-label">Enter Word 2:</label>
+            </div>
+            <input type="text" id="word2" class="form-control" name="word2" value="{{ word2|default('') }}" required>
+            <br>
+            <input type="submit" class="btn btn-primary d-inline-flex align-items-center" value="Submit Word 2">
+        </form>
+    </div>
+</div>
+
+<!-- Error Message Section
+{% if word2 == '' %}
+    <div class="d-flex flex-column flex-md-row gap-4 py-md-5 align-items-center justify-content-center">
+        <div class="alert alert-danger container d-flex flex-column flex-md-row align-items-center justify-content-center" style="margin-top:30px; width: 100%;">
+            <strong>Error!</strong>&nbsp;Incorrect word or not a noun.
+        </div>
+    </div>
+{% endif %} -->
+
+<!-- Go to Distance Button Section -->
+<div class="container text-center">
+    <div class="d-flex flex-row p-4 gap-4 py-md-5 align-items-center justify-content-center" style="padding-top: 0px;">
+        <div>
+            <a href="#">
+                <button onclick="goToDistance()" class="btn btn-success" id="goToDistanceButton" style="display: none;">
+                    Go to Distance
+                </button>
+            </a>
+        </div>
+    </div>
+</div>
+
+<script>
+function goToDistance() {
+    var word1 = document.getElementById('selectedWord1').textContent;
+    var word2 = document.getElementById('selectedWord2').textContent;
+
+    if (word1 && word2) {
+        var path = `/path?word1=${encodeURIComponent(word1)}&word2=${encodeURIComponent(word2)}`;
+        window.location.href = path;
+    } else {
+        alert("Please enter both Word 1 and Word 2 before proceeding.");
+    }
+}
+
+
+document.addEventListener("DOMContentLoaded", function () {
+
+    searchForm1.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        var word1 = document.getElementById("word1").value;
+
+        // Assuming a successful submission, show the selected Word 1
+        selectedWordLabel1.innerHTML = `<strong>Selected Word 1:</strong>`;
+        selectedWordLabel1.style.display = 'block';
+        selectedWord1.innerHTML = word1;
+        selectedWord1.style.display = 'inline';
+
+        localStorage.setItem('savedWord1', word1);
+    });
+
+    searchForm2.addEventListener("submit", function (event) {
+        event.preventDefault();
+
+        var word2 = document.getElementById("word2").value;
+
+        // Assuming a successful submission, show the selected Word 2
+        selectedWordLabel2.innerHTML = `<strong>Selected Word 2:</strong>`;
+        selectedWordLabel2.style.display = 'block';
+        selectedWord2.innerHTML = word2;
+        selectedWord2.style.display = 'inline';
+
+        localStorage.setItem('savedWord2', word2);
+
+        // Show the "Go to Word 1" and "Go to Distance" buttons if Word 1 is already selected
+        if (localStorage.getItem('savedWord1')) {
+            goToDistanceButton.style.display = 'block';
+        }
+    });
+});
+</script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+.node-label {
+    fill: black;
+    font-weight: lighter;
+    font-size: 10px;
+    font-family: sans-serif;
+}
+body{
+    background-color: #212529;
+}
+p, h1, label{
+    fill: #dee2e6;!important
+}

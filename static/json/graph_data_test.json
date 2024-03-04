@@ -1,0 +1,1284 @@
+{
+  "nodes": [
+    {
+      "id": "night",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "corporation",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "land",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "child",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "fingers",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "out",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "file",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "issue",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "globe",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "people",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "brief",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hour",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "association",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "teacher",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "solution",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "foot",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "crowd",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "day",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hair",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "pupil",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "country",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "girl",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "watch",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "today",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "finger",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "light",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "world",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "person",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "home",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "war",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "place",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "seven days",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "company",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "death",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "life",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "organization",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "days",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "woman",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "week",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "route",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "suitcase",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "kid",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "question",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "parent",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "part",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "annual",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "section",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "nation",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "box",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "location",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "age",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "difficulty",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "left",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "end",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "month",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "clock",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "say",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "view",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "way",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "school",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "state",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "female",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "path",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "study",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "persons",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "computer",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "thing",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "earth",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "whole",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "learner",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "seven",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "time",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "man",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "lady",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "problem",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "mother",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "system",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "road",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "object",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "solve",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "year",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "put",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "learn",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "love",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "item",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "work",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "male",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "friends",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "flies",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "humans",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "group",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "piece",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "human",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "hand",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "family",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "USA",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "ROOT",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "case",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "baby",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "business",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "here",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "education",
+      "group": 0,
+      "is_in_path": false
+    },
+    {
+      "id": "student",
+      "group": 0,
+      "is_in_path": false
+    }
+  ],
+  "links": [
+    {
+      "source": "way",
+      "target": "path",
+      "value": 0.5,
+      "reversed_association_rate": 5.263,
+      "is_part_of_path": false
+    },
+    {
+      "source": "part",
+      "target": "piece",
+      "value": 0.5,
+      "reversed_association_rate": 8.25,
+      "is_part_of_path": false
+    },
+    {
+      "source": "day",
+      "target": "night",
+      "value": 0.5,
+      "reversed_association_rate": 2.083,
+      "is_part_of_path": false
+    },
+    {
+      "source": "place",
+      "target": "put",
+      "value": 0.5,
+      "reversed_association_rate": 16.333,
+      "is_part_of_path": false
+    },
+    {
+      "source": "case",
+      "target": "brief",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "country",
+      "target": "land",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "week",
+      "target": "seven days",
+      "value": 0.5,
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false
+    },
+    {
+      "source": "people",
+      "target": "humans",
+      "value": 0.5,
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "school",
+      "target": "education",
+      "value": 0.5,
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false
+    },
+    {
+      "source": "child",
+      "target": "parent",
+      "value": 0.5,
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false
+    },
+    {
+      "source": "time",
+      "target": "flies",
+      "value": 0.5,
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "woman",
+      "target": "girl",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "case",
+      "target": "study",
+      "value": 0.5,
+      "reversed_association_rate": 4.348,
+      "is_part_of_path": false
+    },
+    {
+      "source": "hand",
+      "target": "finger",
+      "value": 0.5,
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "company",
+      "target": "friends",
+      "value": 0.5,
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false
+    },
+    {
+      "source": "part",
+      "target": "whole",
+      "value": 0.5,
+      "reversed_association_rate": 12.375,
+      "is_part_of_path": false
+    },
+    {
+      "source": "week",
+      "target": "seven",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "world",
+      "target": "globe",
+      "value": 0.5,
+      "reversed_association_rate": 4.762,
+      "is_part_of_path": false
+    },
+    {
+      "source": "child",
+      "target": "baby",
+      "value": 0.5,
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false
+    },
+    {
+      "source": "student",
+      "target": "teacher",
+      "value": 0.5,
+      "reversed_association_rate": 7.143,
+      "is_part_of_path": false
+    },
+    {
+      "source": "part",
+      "target": "hair",
+      "value": 0.5,
+      "reversed_association_rate": 9.9,
+      "is_part_of_path": false
+    },
+    {
+      "source": "case",
+      "target": "suitcase",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "woman",
+      "target": "female",
+      "value": 0.5,
+      "reversed_association_rate": 4.545,
+      "is_part_of_path": false
+    },
+    {
+      "source": "week",
+      "target": "end",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "family",
+      "target": "friends",
+      "value": 0.5,
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false
+    },
+    {
+      "source": "way",
+      "target": "road",
+      "value": 0.5,
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false
+    },
+    {
+      "source": "year",
+      "target": "age",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "time",
+      "target": "clock",
+      "value": 0.5,
+      "reversed_association_rate": 4.714,
+      "is_part_of_path": false
+    },
+    {
+      "source": "man",
+      "target": "male",
+      "value": 0.5,
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "world",
+      "target": "earth",
+      "value": 0.5,
+      "reversed_association_rate": 4.762,
+      "is_part_of_path": false
+    },
+    {
+      "source": "year",
+      "target": "month",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "world",
+      "target": "view",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "child",
+      "target": "kid",
+      "value": 0.5,
+      "reversed_association_rate": 7.692,
+      "is_part_of_path": false
+    },
+    {
+      "source": "people",
+      "target": "friends",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "world",
+      "target": "war",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "life",
+      "target": "death",
+      "value": 0.5,
+      "reversed_association_rate": 4.042,
+      "is_part_of_path": false
+    },
+    {
+      "source": "people",
+      "target": "person",
+      "value": 0.5,
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false
+    },
+    {
+      "source": "problem",
+      "target": "solution",
+      "value": 0.5,
+      "reversed_association_rate": 5.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "year",
+      "target": "annual",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "hand",
+      "target": "left",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "day",
+      "target": "light",
+      "value": 0.5,
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false
+    },
+    {
+      "source": "part",
+      "target": "section",
+      "value": 0.5,
+      "reversed_association_rate": 11.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "place",
+      "target": "home",
+      "value": 0.5,
+      "reversed_association_rate": 5.444,
+      "is_part_of_path": false
+    },
+    {
+      "source": "system",
+      "target": "organization",
+      "value": 0.5,
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "family",
+      "target": "love",
+      "value": 0.5,
+      "reversed_association_rate": 8.333,
+      "is_part_of_path": false
+    },
+    {
+      "source": "way",
+      "target": "out",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "thing",
+      "target": "object",
+      "value": 0.5,
+      "reversed_association_rate": 4.9,
+      "is_part_of_path": false
+    },
+    {
+      "source": "place",
+      "target": "location",
+      "value": 0.5,
+      "reversed_association_rate": 8.167,
+      "is_part_of_path": false
+    },
+    {
+      "source": "country",
+      "target": "USA",
+      "value": 0.5,
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false
+    },
+    {
+      "source": "group",
+      "target": "friends",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "problem",
+      "target": "question",
+      "value": 0.5,
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false
+    },
+    {
+      "source": "hand",
+      "target": "foot",
+      "value": 0.5,
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false
+    },
+    {
+      "source": "system",
+      "target": "computer",
+      "value": 0.5,
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "company",
+      "target": "corporation",
+      "value": 0.5,
+      "reversed_association_rate": 11.111,
+      "is_part_of_path": false
+    },
+    {
+      "source": "country",
+      "target": "nation",
+      "value": 0.5,
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "problem",
+      "target": "solve",
+      "value": 0.5,
+      "reversed_association_rate": 9.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "day",
+      "target": "today",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "man",
+      "target": "human",
+      "value": 0.5,
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false
+    },
+    {
+      "source": "people",
+      "target": "persons",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "hand",
+      "target": "fingers",
+      "value": 0.5,
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false
+    },
+    {
+      "source": "place",
+      "target": "here",
+      "value": 0.5,
+      "reversed_association_rate": 19.6,
+      "is_part_of_path": false
+    },
+    {
+      "source": "time",
+      "target": "watch",
+      "value": 0.5,
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "school",
+      "target": "work",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "case",
+      "target": "file",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "thing",
+      "target": "item",
+      "value": 0.5,
+      "reversed_association_rate": 7.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "problem",
+      "target": "difficulty",
+      "value": 0.5,
+      "reversed_association_rate": 19.8,
+      "is_part_of_path": false
+    },
+    {
+      "source": "student",
+      "target": "learner",
+      "value": 0.5,
+      "reversed_association_rate": 6.667,
+      "is_part_of_path": false
+    },
+    {
+      "source": "school",
+      "target": "learn",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "problem",
+      "target": "issue",
+      "value": 0.5,
+      "reversed_association_rate": 16.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "company",
+      "target": "business",
+      "value": 0.5,
+      "reversed_association_rate": 9.091,
+      "is_part_of_path": false
+    },
+    {
+      "source": "state",
+      "target": "nation",
+      "value": 0.5,
+      "reversed_association_rate": 14.143,
+      "is_part_of_path": false
+    },
+    {
+      "source": "week",
+      "target": "month",
+      "value": 0.5,
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false
+    },
+    {
+      "source": "way",
+      "target": "route",
+      "value": 0.5,
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "family",
+      "target": "mother",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "people",
+      "target": "crowd",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "time",
+      "target": "hour",
+      "value": 0.5,
+      "reversed_association_rate": 14.143,
+      "is_part_of_path": false
+    },
+    {
+      "source": "state",
+      "target": "say",
+      "value": 0.5,
+      "reversed_association_rate": 12.375,
+      "is_part_of_path": false
+    },
+    {
+      "source": "woman",
+      "target": "lady",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "case",
+      "target": "box",
+      "value": 0.5,
+      "reversed_association_rate": 14.286,
+      "is_part_of_path": false
+    },
+    {
+      "source": "week",
+      "target": "work",
+      "value": 0.5,
+      "reversed_association_rate": 12.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "student",
+      "target": "learn",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "student",
+      "target": "pupil",
+      "value": 0.5,
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false
+    },
+    {
+      "source": "group",
+      "target": "association",
+      "value": 0.5,
+      "reversed_association_rate": 20.0,
+      "is_part_of_path": false
+    },
+    {
+      "source": "school",
+      "target": "days",
+      "value": 0.5,
+      "reversed_association_rate": 16.667,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "time",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "year",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "people",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "way",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "day",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "man",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "thing",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "woman",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "life",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "child",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "world",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "school",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "state",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "family",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "student",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "group",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "country",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "problem",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "hand",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "part",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "place",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "case",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "week",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "company",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    },
+    {
+      "source": "ROOT",
+      "target": "system",
+      "value": 0.5,
+      "reversed_association_rate": 0.5,
+      "is_part_of_path": false
+    }
+  ]
+}

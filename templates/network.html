@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Graph Visualization</title>
+    <script src="https://d3js.org/d3.v6.min.js"></script>
+    <link rel="stylesheet" type="text/css" href="static/style/style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+</head>
+<body style="background-color: #212529">
+
+<!--<button onclick="tryAgain()" style="margin-top: 20px;">Try Again</button>-->
+<div class="container text-center">
+    <div class="d-flex flex-row p-4 gap-4 py-md-5 align-items-center justify-content-center" style="padding-top: 0px;">
+        <div>
+                <button onclick="tryAgain()" class="btn btn-success" style="margin-top: 20px;">
+                    Try Again
+                </button>
+        </div>
+    </div>
+</div>
+
+<script>
+    function tryAgain() {
+        window.location.href = '/';
+    }
+
+    let graphData;  // Declare graphData as a global variable
+let labelsData;  // Declare labelsData as a global variable
+
+Promise.all([
+    fetch('/static/json/graph_data.json'),
+    fetch('/static/json/labeled_nodes.json')
+])
+.then(([responseGraph, responseLabels]) => {
+    console.log('Response Graph Status:', responseGraph.status);
+    console.log('Response Labels Status:', responseLabels.status);
+
+    if (!responseGraph.ok) {
+        throw new Error(`Failed to fetch graph data. Status: ${responseGraph.status}, URL: ${responseGraph.url}`);
+    }
+
+    if (!responseLabels.ok) {
+        throw new Error(`Failed to fetch labeled nodes data. Status: ${responseLabels.status}, URL: ${responseLabels.url}`);
+    }
+
+    return Promise.all([responseGraph.json(), responseLabels.json()]);
+})
+.then(([loadedGraphData, loadedLabelsData]) => {
+    console.log('Graph Data:', loadedGraphData);
+    console.log('Labels Data:', loadedLabelsData);
+
+    graphData = loadedGraphData;
+    labelsData = loadedLabelsData;
+    createGraph(graphData, labelsData);
+})
+.catch(error => console.error('Error fetching data:', error));
+
+    function createGraph(graphData, labelsData) {
+        const width = 1400;
+        const height = 800;
+        const color = d3.scaleOrdinal(d3.schemeCategory10);
+const links = graphData.links.map(d => ({ ...d }));
+const nodes = graphData.nodes.map(d => ({ ...d, label: labelsData.labels[d.id] }));
+
+        const simulation = d3.forceSimulation(nodes)
+            .force("link", d3.forceLink(links).id(d => d.id))
+            .force("charge", d3.forceManyBody())
+            .force("center", d3.forceCenter(width / 2, height / 2))
+            .on("tick", ticked);
+
+        const svg = d3.create("svg")
+            .attr("width", width)
+            .attr("height", height)
+            .attr("viewBox", [0, 0, width, height])
+            .attr("style", "max-width: 100%; height: auto;");
+
+        const link = svg.append("g")
+            .attr("stroke", "#999")
+            .attr("stroke-opacity", 0.6)
+            .selectAll()
+            .data(links)
+            .join("line")
+            .attr("stroke-width", d => Math.sqrt(d.value))
+            .attr("marker-end", "url(#arrowhead-marker)"); // Updated marker-end attribute
+
+        // Add the arrowhead marker definition
+        svg.append('defs').append('marker')
+            .attr('id', 'arrowhead-marker')
+            .attr('viewBox', '-5 -5 10 10')
+            .attr('refX', 0)
+            .attr('refY', 0)
+            .attr('orient', 'auto')
+            .attr('markerWidth', 16)
+            .attr('markerHeight', 16)
+            .append('path')
+            .attr('d', 'M 0,0 m -5,-5 L 5,0 L -5,5 Z')
+            .attr('fill', '#999');
+
+        const node = svg.append("g")
+            .attr("stroke", "#fff")
+            .attr("stroke-width", 1.5)
+            .selectAll()
+            .data(nodes)
+            .join("g")
+            .call(d3.drag()
+                .on("start", dragstarted)
+                .on("drag", dragged)
+                .on("end", dragended));
+
+        node.append("circle")
+    .attr("r", 4)
+    .attr("fill", d => {
+        console.log(d.is_in_path); // Add this line for debugging
+        return d.is_in_path ? "red" : color(d.group);
+    });
+
+
+        node.append("text")
+            .attr("x", 8)
+            .attr("dy", ".35em")
+            .classed("node-label", true)
+            .style("font-size", "10px")
+            .style("font-weight", "lighter")
+            .style("font-family", "sans-serif")
+            .style("fill", "yellow")
+            .text(d => d.label);
+
+        // Conditionally add a label under the node if is_in_path is true
+node.filter(d => d.is_in_path)
+    .append("text")
+    .attr("x", 8)
+    .attr("dy", "1.5em")
+    .classed("node-id-label", true)
+    .style("font-size", "16px")
+    .style("font-weight", "lighter")
+    .style("font-family", "sans-serif")
+    .style("fill", "red")
+    .text(d => d.id);
+
+        function ticked() {
+    link
+        .attr("x1", d => d.source.x)
+        .attr("y1", d => d.source.y)
+        .attr("x2", d => d.target.x)
+        .attr("y2", d => d.target.y)
+        .attr("stroke", d => (d.is_part_of_path ? "red" : "#999")); // red if is_part_of_path is true, otherwise default color
+
+    node
+        .attr("transform", d => `translate(${d.x},${d.y})`);
+}
+
+        function dragstarted(event) {
+            if (!event.active) simulation.alphaTarget(0.3).restart();
+            event.subject.fx = event.subject.x;
+            event.subject.fy = event.subject.y;
+        }
+
+        function dragged(event) {
+            event.subject.fx = event.x;
+            event.subject.fy = event.y;
+        }
+
+        function dragended(event) {
+            if (!event.active) simulation.alphaTarget(0);
+            event.subject.fx = null;
+            event.subject.fy = null;
+        }
+
+        document.body.appendChild(svg.node());
+    }
+</script>
+</body>
+</html>
